@@ -10,9 +10,15 @@ git rm --cashed filename - remove add file
 
 ===================================================
 
+<<<<<<< HEAD
 
 
 fgfdzhfhfdhgfdhgfd
 =======
+=======
+i
+iyggiggi
+
+>>>>>>> phy
 765365736176368763287637167
 
