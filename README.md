@@ -12,3 +12,9 @@ git rm --cashed filename - remove add file
 ===================================================
 
 change1
+ my group members
+
+ Senthu
+ Chathuranga
+ devini
+ kosi
