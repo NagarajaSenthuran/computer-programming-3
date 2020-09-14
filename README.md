@@ -8,7 +8,6 @@ git status - identify the current state of the work done so far
 git commit -m "message" - commit your changes
 git rm --cashed filename - remove add file
 
-
 ===================================================
 
-change1 as a master
+
