@@ -11,4 +11,4 @@ git rm --cashed filename - remove add file
 
 ===================================================
 
-change1
+change1 as a master
